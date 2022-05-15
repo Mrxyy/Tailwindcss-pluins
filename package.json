@@ -1,0 +1,26 @@
+{
+  "name": "tailwindcss-pluins",
+  "version": "1.0.2",
+  "description": "Provite useful plugins for tailwind-css",
+  "main": "./dist/index.js",
+  "files": ["dist","README.md"],
+  "exports": {
+    "./*": "./dist/*.js"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrxyy/Tailwindcss-pluins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrxyy/Tailwindcss-pluins/issues"
+  },
+  "homepage": "https://github.com/Mrxyy/Tailwindcss-pluins#readme",
+  "devDependencies": {
+    "rollup": "^2.73.0"
+  }
+}
