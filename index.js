@@ -1,2 +1,4 @@
 import selectorWeight from "./plugins/selectorWeight"
-export {selectorWeight};
+import dynamicThemes from "./plugins/dynamicThemes"
+
+export {selectorWeight,dynamicThemes};

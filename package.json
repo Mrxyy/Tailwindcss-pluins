@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-pluins",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Provite useful plugins for tailwind-css",
   "main": "./dist/index.js",
   "files": ["dist","README.md"],
